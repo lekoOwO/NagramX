@@ -18,7 +18,7 @@
     <string name="DateOfForwardedMsg">顯示轉發訊息日期</string>
     <string name="ShowMessageID">顯示訊息 ID</string>
     <string name="ShowRPCError">顯示 RPC 錯誤</string>
-    <string name="ShowPremiumStickersAnimation">顯示 Premium 貼紙動畫</string>
+    <string name="ShowPremiumStickersAnimation">顯示 Premium 貼圖動畫</string>
     <string name="AppIconColorful">繽紛</string>
     <string name="AppIconDarkGreen">深翠</string>
     <string name="AppIconNeon">霓虹</string>
@@ -53,7 +53,7 @@
     <string name="DoNotUnarchiveBySwipe">停用滑動取消封存</string>
     <string name="DefaultDeleteMenu">預設刪除選單</string>
     <string name="DisableStories">停用動態功能</string>
-    <string name="CopyPhotoAsSticker">複製為貼紙</string>
+    <string name="CopyPhotoAsSticker">複製為貼圖</string>
     <string name="ProviderTranSmartTranslate">騰訊互動翻譯</string>
     <string name="DisableMarkdown">停用 Markdown</string>
     <string name="SendWithMarkdown">啟用 Markdown</string>
@@ -69,7 +69,7 @@
     <string name="PushServiceTypeUnifiedGateway">Unified Push 閘道器</string>
     <string name="SendMp4DocumentAsVideo">MP4 影片作為檔案傳送時可預覽</string>
     <string name="StickersChooseShortNameForStickerPack">為您的包選擇一個簡短的名稱。</string>
-    <string name="StickersCopyStickerSet">複製整個貼紙包</string>
+    <string name="StickersCopyStickerSet">複製整個貼圖包</string>
     <string name="DisableChannelMuteButton">隱藏頻道底欄</string>
     <string name="DisablePreviewVideoSoundShortcut">停用預覽影片音量快捷鍵</string>
     <string name="DisablePreviewVideoSoundShortcutNotice">停用音量鍵快捷開啟預覽影片的聲音。</string>

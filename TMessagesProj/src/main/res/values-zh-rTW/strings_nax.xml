@@ -43,7 +43,7 @@
     <string name="ArticleTranslationProvider">文章翻譯源</string>
     <string name="EnableSeparateArticleTranslator">單獨設定文章翻譯源</string>
     <string name="DisableCrashlyticsCollection">停用 Firebase Crashlytics 崩潰報告</string>
-    <string name="ShowStickersRowToplevel">在主設定中顯示貼紙</string>
+    <string name="ShowStickersRowToplevel">在主設定中顯示貼圖</string>
     <string name="HideShareButtonInChannel">隱藏右側分享按鈕</string>
     <string name="DeleteCloudBackup">清除雲資料</string>
     <string name="DeleteCloudBackupFailed">雲備份資料清除失敗</string>
@@ -211,7 +211,7 @@
     <string name="SendHighQualityPhoto">傳送高品質圖片</string>
     <string name="GroupedMessageMenu">分組訊息選單</string>
     <string name="GroupedMessageMenuNotice">將主要操作選項移至訊息選單的底部。</string>
-    <string name="CopySticker">複製貼紙</string>
+    <string name="CopySticker">複製貼圖</string>
     <string name="CheckUpdate">檢查更新</string>
     <string name="AutoCheckUpdateOFF">停用</string>
     <string name="AutoCheckUpdateSwitch">更新通道</string>
@@ -220,7 +220,7 @@
     <string name="YourVersionIsLatestNax">已是最新版本。</string>
     <string name="PremiumElements">Premium 元素</string>
     <string name="PremiumItemBoosts">助推標誌</string>
-    <string name="PremiumItemStickerEffects">貼紙特效</string>
+    <string name="PremiumItemStickerEffects">貼圖特效</string>
     <string name="PremiumItemEmojiStatus">Emoji 狀態</string>
     <string name="PremiumItemEmojiInReplies">回覆背景中的 Emoji</string>
     <string name="PremiumItemCustomColorInReplies">自訂顏色</string>
